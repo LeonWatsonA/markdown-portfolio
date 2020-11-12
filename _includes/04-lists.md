@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] Complete Activity
+- [ ] Complete GitHub Training Course
+- [ ] Complete GitHub ENTK Badge
