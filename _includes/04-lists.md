@@ -1,0 +1,3 @@
+- [ ] Complete Activity
+- [ ] Complete GitHub Training Course
+- [ ] Complete GitHub ENTK Badge
